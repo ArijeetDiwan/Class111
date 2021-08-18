@@ -1,0 +1,21 @@
+Most data in the world can be plotted as a normal distribution which looks like a bell-curve. - Mean of a population in a normal distribution is at its peak. - Most of the data (68%) in the population lie within one standard deviation from the mean. 
+
+- 95 % of data lie within two standard deviations from the mean and 99% of data lie within three standard deviation from the mean.
+
+ - Sampling distribution is the distribution created when we plot means of 1000s of samples with a fixed sampling size.  
+
+
+ - Mean of a sampling distribution is the same as the mean of the population. 
+
+
+
+ - Standard deviation of the sampling distribution (also called standard error of the mean) = standard deviation of the population distribution / sqrt (sampling size).
+
+
+If z > 3 or z > 2 ; the new sample mean lies more than 3 standard deviations away from the sampling distribution mean. It also means that there has been a large impact of theintervention. We say that the change in math score is statistically significant. If z < 1 or z < 2; the impact of the intervention might not be statistically significant.
+
+
+f z < 1 or z < 2; the impact of the intervention might not be statistically significant.
+
+This example was really important because it helped us identify which intervention worked best on different population sets. This type of testing to identify the impact of interventions is used by governments, financial institutions and non-profits to understand what works best with a population.
+
